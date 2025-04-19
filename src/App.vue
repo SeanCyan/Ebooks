@@ -24,34 +24,58 @@ const imagesL = [
   id: 5,
   url: `https://raw.githubusercontent.com/SeanCyan/Portfolio/refs/heads/master/img/Ebook/22P5.png`
  },
+ {
+  id: 6,
+  url: `https://raw.githubusercontent.com/SeanCyan/Portfolio/refs/heads/master/img/Ebook/22P6.png`
+ },
+ {
+  id: 7,
+  url: `https://raw.githubusercontent.com/SeanCyan/Portfolio/refs/heads/master/img/Ebook/22P7.png`
+ },
+ {
+  id: 8,
+  url: `https://raw.githubusercontent.com/SeanCyan/Portfolio/refs/heads/master/img/Ebook/22P8.png`
+ },
 ]
 
 const imagesP = [
  {
-  id: 6,
+  id: 9,
   url: `https://raw.githubusercontent.com/SeanCyan/Portfolio/refs/heads/master/img/Ebook/23P1.png`
  },
  {
-  id: 7,
+  id: 10,
   url: `https://raw.githubusercontent.com/SeanCyan/Portfolio/refs/heads/master/img/Ebook/23P2.png`
  },
  {
-  id: 8,
+  id: 11,
   url: `https://raw.githubusercontent.com/SeanCyan/Portfolio/refs/heads/master/img/Ebook/23P3.png`
  },
  {
-  id: 7,
+  id: 12,
   url: `https://raw.githubusercontent.com/SeanCyan/Portfolio/refs/heads/master/img/Ebook/23P4.png`
  },
  {
-  id: 8,
+  id: 13,
   url: `https://raw.githubusercontent.com/SeanCyan/Portfolio/refs/heads/master/img/Ebook/23P5.png`
+ },
+ {
+  id: 14,
+  url: `https://raw.githubusercontent.com/SeanCyan/Portfolio/refs/heads/master/img/Ebook/23P6.png`
+ },
+ {
+  id: 15,
+  url: `https://raw.githubusercontent.com/SeanCyan/Portfolio/refs/heads/master/img/Ebook/23P7.png`
+ },
+ {
+  id: 16,
+  url: `https://raw.githubusercontent.com/SeanCyan/Portfolio/refs/heads/master/img/Ebook/23P8.png`
  },
 ]
 
 
 const images = [
- {
+{
   id: 1,
   url: `https://raw.githubusercontent.com/SeanCyan/Portfolio/refs/heads/master/img/Ebook/22P1.png`
  },
@@ -73,23 +97,47 @@ const images = [
  },
  {
   id: 6,
+  url: `https://raw.githubusercontent.com/SeanCyan/Portfolio/refs/heads/master/img/Ebook/22P6.png`
+ },
+ {
+  id: 7,
+  url: `https://raw.githubusercontent.com/SeanCyan/Portfolio/refs/heads/master/img/Ebook/22P7.png`
+ },
+ {
+  id: 8,
+  url: `https://raw.githubusercontent.com/SeanCyan/Portfolio/refs/heads/master/img/Ebook/22P8.png`
+ },
+{
+  id: 9,
   url: `https://raw.githubusercontent.com/SeanCyan/Portfolio/refs/heads/master/img/Ebook/23P1.png`
  },
  {
-  id: 7,
+  id: 10,
   url: `https://raw.githubusercontent.com/SeanCyan/Portfolio/refs/heads/master/img/Ebook/23P2.png`
  },
  {
-  id: 8,
+  id: 11,
   url: `https://raw.githubusercontent.com/SeanCyan/Portfolio/refs/heads/master/img/Ebook/23P3.png`
  },
  {
-  id: 7,
+  id: 12,
   url: `https://raw.githubusercontent.com/SeanCyan/Portfolio/refs/heads/master/img/Ebook/23P4.png`
  },
  {
-  id: 8,
+  id: 13,
   url: `https://raw.githubusercontent.com/SeanCyan/Portfolio/refs/heads/master/img/Ebook/23P5.png`
+ },
+ {
+  id: 14,
+  url: `https://raw.githubusercontent.com/SeanCyan/Portfolio/refs/heads/master/img/Ebook/23P6.png`
+ },
+ {
+  id: 15,
+  url: `https://raw.githubusercontent.com/SeanCyan/Portfolio/refs/heads/master/img/Ebook/23P7.png`
+ },
+ {
+  id: 16,
+  url: `https://raw.githubusercontent.com/SeanCyan/Portfolio/refs/heads/master/img/Ebook/23P8.png`
  },
 ]
 
